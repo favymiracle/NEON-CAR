@@ -1,0 +1,4 @@
+#Mon Apr 18 04:36:57 PKT 2022
+base.0=D\:\\Game development\\Neon-Heat-master\\Source Code\\Neon Heat\\apk\\launcher\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
